@@ -11,7 +11,7 @@ Chatbot-3.0
 #### Publish CSV to CDI
 <a name="publish-csv-to-cdi"></a>
 
-This endpoint is used to publish a CSV file to CDI. It supports both GET and POST methods.
+This endpoint is designed to publish a CSV file to CDI, supporting both GET and POST methods.
 
 **GET Method**
 
@@ -30,7 +30,7 @@ This endpoint is used to publish a CSV file to CDI. It supports both GET and POS
 #### Recommend Products V2
 <a name="recommend-products-v2"></a>
 
-This endpoint is used to recommend products based on various parameters. It supports the GET method.
+This endpoint is designed to recommend products based on various parameters, supporting the GET method.
 
 **GET Method**
 
