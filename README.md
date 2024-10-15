@@ -1,9 +1,15 @@
 Chatbot-3.0
 =================
 
+### Table of Contents
+
+* [Publish CSV to CDI](#publish-csv-to-cdi)
+* [Recommend Products V2](#recommend-products-v2)
+
 ### API Endpoints
 
 #### Publish CSV to CDI
+<a name="publish-csv-to-cdi"></a>
 
 This endpoint is used to publish a CSV file to CDI. It supports both GET and POST methods.
 
@@ -22,6 +28,7 @@ This endpoint is used to publish a CSV file to CDI. It supports both GET and POS
 	+ `where`: A string representing the where clause.
 
 #### Recommend Products V2
+<a name="recommend-products-v2"></a>
 
 This endpoint is used to recommend products based on various parameters. It supports the GET method.
 
